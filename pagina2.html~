@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+<link rel="StyleSheet" href="estilos.css" type="text/css">
+
+</head>
+<body align="center"  bgcolor="cyan" class="container">
+<h1> CIUDADES DE DIFERENTES PARTES DEL MUNDO</h1>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg/1000px-Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg" width="290">
+<P> Esto es una ciudad de Nueva York conocida principal mente por la estatua de la libertad</p>
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ12t1_7E9aBeyohAP_z4dLD_lGojf9ZBz11w&usqp=CAUei" width="290"> 
+<p> La estatua fue un regalo de los franceses a los estadounidenses y conmemora la alianza de ambos países durante la Revolución Estadounidense. Desde entonces, se convirtió en un símbolo de la libertad, justicia y democracia, y también fue reconocida como Patrimonio de la Humanidad por la Unesco.</p>
+<ul
+<li><a href="INDEX.HTML">BATA</a></li>
+<li><a href="pagina3.html">PAGINA PRINCIPAL</a></li>
+
+
+</body>
+</html>
